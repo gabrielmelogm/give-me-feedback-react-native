@@ -15,4 +15,4 @@ Essa é o aplicativo mobile do #NLWHEAT
 - React Native
 - React
 - Socket.io
-- Axios
+- Axios 
